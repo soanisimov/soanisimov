@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergii Anisimov</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&width=435&lines=3rd+year+student+of+the+speciality+%E2%80%98Computer+Engineering%E2%80%99" alt="Typing SVG" /></a>
 
 
 - 👨‍💻 All of my projects are available at [https://soanisimov.github.io/](https://soanisimov.github.io/)
