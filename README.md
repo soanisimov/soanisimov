@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergii Anisimov</h1>
-<h3 align="center">🧑‍🎓 3rd year student of the speciality ‘Computer Engineering’, Borys Hrynchenko Kyiv Metropolitan University</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 
 - 👨‍💻 All of my projects are available at [https://soanisimov.github.io/](https://soanisimov.github.io/)
 
